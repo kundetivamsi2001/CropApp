@@ -39,7 +39,15 @@ This dataset was build by augmenting datasets of rainfall, climate and fertilize
 # Demo
 Live Demo: https://ai-crop-recommender.herokuapp.com/
 
-![](https://i.imgur.com/TnsSPQy.png)
+![](https://drive.google.com/file/d/1FAEXBcgXCQkklOBdEyNS5tH2q6fle6bg/view?usp=sharing)
+
+#conclusion
+Now-a-days farmers	facing lots	of problems	and they don‟t know	the proper information regarding crops to  grow and	to cultivate. This proposed system helps farmers to know the right crop to grow.
+Proposed system predicts the crops using Machine Learning techniques based on the soil tested results.
+This system also useful to agriculture departments to predicts the right crop in right time. If we have such kind of  automation, will be useful to farmers and agricultural field.
+The goals that have been achieved by the developed system are, simplified and reduced the manual work, Large  volumes of data can be stored and It provides Smooth workflow.
+![image](https://user-images.githubusercontent.com/94431896/196871085-aa48c60e-40ef-4066-adaa-7d3a374dfc97.png)
+
 
 # References
 * https://www.prolim.com/crop-recommendation-system-using-machine-learning-for-digital-farming/
