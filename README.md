@@ -37,7 +37,7 @@ This dataset was build by augmenting datasets of rainfall, climate and fertilize
 
  
 # Demo
-Live Demo: https://ai-crop-recommender.herokuapp.com/
+Live Demo: https://ai-crop-recommender.herokuapp
 
 user interface of the app.
 *https://drive.google.com/file/d/1FAEXBcgXCQkklOBdEyNS5tH2q6fle6bg/view?usp=sharing
