@@ -6,7 +6,7 @@ Crop recommendation is one of the most important aspects of precision agricultur
 
 
 <p align="center">
-<img src="https://www.opendei.eu/wp-content/uploads/2020/11/img-Yanewn0ORWCx4Jlm-w800.jpg" />
+<img src="https://th.bing.com/th/id/OIP.-_1NWp8pMF3LJWNsLzuLIQHaE8?pid=ImgDet&rs=1" />
 </p>
 This application will assist farmers in increasing agricultural productivity, preventing soil degradation in cultivated land, reducing chemical use in crop production, and maximizing water resource efficiency.
 
