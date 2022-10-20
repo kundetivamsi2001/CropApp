@@ -38,8 +38,8 @@ This dataset was build by augmenting datasets of rainfall, climate and fertilize
  
 # Demo
 Live Demo: https://ai-crop-recommender.herokuapp.com/
-
-![](https://drive.google.com/file/d/1FAEXBcgXCQkklOBdEyNS5tH2q6fle6bg/view?usp=sharing)
+user interface of the app.
+*https://drive.google.com/file/d/1FAEXBcgXCQkklOBdEyNS5tH2q6fle6bg/view?usp=sharing
 
 #conclusion
 Now-a-days farmers	facing lots	of problems	and they don‟t know	the proper information regarding crops to  grow and	to cultivate. This proposed system helps farmers to know the right crop to grow.
